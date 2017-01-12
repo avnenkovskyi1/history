@@ -133,6 +133,5 @@ PATCH APPLY 2222
 
 
 Bla Bla
->>>>>>> rebase
 22222222222
 function getName{
